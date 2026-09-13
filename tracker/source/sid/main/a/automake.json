@@ -12,13 +12,13 @@
     "autoconf, gettext, help2man, install-info, libtool, pkgconf, texinfo"
   ],
   "Checksums-Sha256": [
-    "c0ef26b29a88526ecc7d19e4948522027716bcb904a7358445e5ac50facd22d7 2483 automake_1.18.1-4.dsc 168aa363278351b89af56684448f525a5bce5079d0b6842bd910fdd3f1646887 1652392 automake_1.18.1.orig.tar.xz 728ce05b02f123ea360ab9d168111bc98470afc7568253e93ee2a7582ef5ddb4 488 automake_1.18.1.orig.tar.xz.asc 0205a6b27795c2ea015683a06f461ee9f4856525f4084157e66b657b9ddfe2c3 22816 automake_1.18.1-4.debian.tar.xz"
+    "7d742d0b58630a984d0affc771d0049be13bd3588b37a79f8c85391a3b711fe5 2463 automake_1.19-1.dsc e3e2c2e3abf37898138db5b6c1d1dc35c9160c5978be7947d2c741705251d445 1682600 automake_1.19.orig.tar.xz 2a0f55ae481093dc29f7410d243919b8d5675877f0147004e945cf84036d9577 228 automake_1.19.orig.tar.xz.asc 9bddd8be7d08abb898d3238bb421aa79da2ed32ed43657649c9db643f541393e 17152 automake_1.19-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/a/automake"
   ],
   "Files": [
-    "b2584d0c25795a40fc2b7f9f952b755f 2483 automake_1.18.1-4.dsc cea31dbf1120f890cbf2a3032cfb9a68 1652392 automake_1.18.1.orig.tar.xz f701252331755c01c21f1f30bdb1a95b 488 automake_1.18.1.orig.tar.xz.asc 13a6fda96682ca7e7575306704dac878 22816 automake_1.18.1-4.debian.tar.xz"
+    "a2e9e6ea71f5ff6aa21739b8a4ab5a39 2463 automake_1.19-1.dsc da9b5c852b94089c7b7b16071ce8803c 1682600 automake_1.19.orig.tar.xz 50dfcbe69490fa59d7376e09cbf68311 228 automake_1.19.orig.tar.xz.asc c286341220fde7a5173391c628a05036 17152 automake_1.19-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.7.0"
+    "4.7.4"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/eric/automake.git"
   ],
   "Version": [
-    "1:1.18.1-4"
+    "1:1.19-1"
   ]
 }
